@@ -28,3 +28,33 @@ WordAI is committed to protecting your privacy and data. We adhere to strict sec
 For further assistance, please contact our support team at raycarllei@gmail.com. We are here to help you with any questions or issues you may encounter.
 
 Thank you for choosing WordAI as your companion in exploring and learning languages. We hope this support documentation helps you make the most out of your WordAI experience.
+
+
+
+欢迎使用WordAI支持文档。本指南旨在帮助您熟悉并充分利用WordAI iOS应用程序。无论您是新用户还是希望探索应用程序更深层功能的用户，本文档都是您的首选资源。
+
+## 1. 入门指南
+
+要开始使用WordAI，请从iOS应用商店下载该应用程序。
+
+## 2. 使用搜索功能
+
+搜索栏位于主屏幕顶部。只需输入您希望探索的任何英文词汇或短语。当您输入时，WordAI将提供相关词汇建议。选择一个词汇将带您进入其详细词汇视图。
+
+## 3. 语言切换：在英文和中文UI之间切换
+
+语言切换功能位于主屏幕上。此功能允许您在英文和中文之间切换应用程序界面，使WordAI对更广泛的受众可用。
+
+## 4. 探索详细词汇视图
+
+详细词汇视图提供有关词汇的全面信息，包括定义、发音、翻译、例句、同义词/反义词和词源。使用选项卡浏览这些部分。
+
+## 5. 隐私和数据保护
+
+WordAI致力于保护您的隐私和数据。我们遵守严格的安全标准，确保您的信息安全。
+
+## 6. 联系支持
+
+如需进一步帮助，请联系我们的支持团队，邮箱为raycarllei@gmail.com。我们将为您解决任何问题或疑问。
+
+感谢您选择WordAI作为探索和学习语言的伴侣。我们希望本支持文档能帮助您充分利用WordAI的体验。
