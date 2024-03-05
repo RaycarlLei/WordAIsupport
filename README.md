@@ -29,7 +29,7 @@ For further assistance, please contact our support team at raycarllei@gmail.com.
 
 Thank you for choosing WordAI as your companion in exploring and learning languages. We hope this support documentation helps you make the most out of your WordAI experience.
 
-
+##
 
 欢迎使用WordAI支持文档。本指南旨在帮助您熟悉并充分利用WordAI iOS应用程序。无论您是新用户还是希望探索应用程序更深层功能的用户，本文档都是您的首选资源。
 
