@@ -55,7 +55,7 @@ WordAI致力于保护您的隐私和数据。我们遵守严格的安全标准�
 
 ## 6. 联系支持
 
-如需进一步帮助，请联系我们的支持团队，邮箱为raycarllei@gmail.com。我们将为您解决任何问题或疑问。
+如需进一步帮助，请联系我们的支持团队邮箱raycarllei@gmail.com。我们将为您解决任何问题或疑问。
 
 感谢您选择WordAI作为探索和学习语言的伴侣。我们希望本支持文档能帮助您充分利用WordAI的体验。
 
@@ -76,5 +76,21 @@ Data is not used for any other purpose.
 We do not share user data with third parties.
 6. User Control
 Users can delete their accounts at any time, which removes associated data.
-7. Contact Us
-If you have questions or concerns about our privacy practices, please reach out to us at [your contact email].
+
+## 隐私政策
+1. 简介
+我们对用户隐私的承诺至关重要。本隐私政策概述了我们在应用程序中如何收集、使用和保护个人信息。
+
+2. 我们收集的信息
+用户输入：我们收集用户提供的词汇输入。
+使用数据：可能会收集非个人使用数据（例如，应用程序交互、查询）。
+3. 我们如何收集数据
+直接从用户那里收集：当您使用WordAI时，我们直接从您那里收集词汇输入。
+OpenAI API：我们利用OpenAI API检索词汇含义。
+4. 数据收集的目的
+我们收集词汇输入以提供准确的含义并增强用户体验。
+数据不用于任何其他目的。
+5. 数据共享
+我们不与第三方分享用户数据。
+6. 用户控制
+用户可以随时删除他们的账户，这将删除相关数据。
