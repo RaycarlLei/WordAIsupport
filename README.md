@@ -61,7 +61,7 @@ Users can delete their account at any time to clear relevant data.
 
 ## 3. 语言切换
 
-此功能允许您在英文、简体中文、繁体中文之间切换应用程序界面，使WordAI对更广泛的受众可用。
+此功能允许您在英文、简体中文、繁体中文之间切换应用程序界面。
 
 ## 4. 探索详细词汇视图
 
