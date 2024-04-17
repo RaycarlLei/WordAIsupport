@@ -15,31 +15,25 @@ The Language Toggle can be found on the Home Screen. This feature allows you to 
 
 ## 4. Exploring the Detailed Word View
 
-The Detailed Word View provides comprehensive information about a term, including definitions, pronunciations, translations, example sentences, synonyms/antonyms, and etymology. Use the tabs to navigate through these sections.
+The Detailed Word View provides comprehensive information about a term, including definitions, pronunciations, translations, example sentences, and etymology.
 
 
-## 5. Privacy and Data Protection
+## 5. Contacting Support
 
-WordAI is committed to protecting your privacy and data. We adhere to strict security standards to ensure your information is safe.
-
-
-## 6. Contacting Support
-
-For further assistance, please contact our support team at raycarllei@gmail.com. We are here to help you with any questions or issues you may encounter.
+For further assistance, please contact our support team at raycarllei@gmail.com. 
 
 Thank you for choosing WordAI as your companion in exploring and learning languages. We hope this support documentation helps you make the most out of your WordAI experience.
 
 ##
 
-欢迎使用WordAI支持文档。本指南旨在帮助您熟悉并充分利用WordAI iOS应用程序。无论您是新用户还是希望探索应用程序更深层功能的用户，本文档都是您的首选资源。
-
+欢迎使用WordAI支持文档。本指南旨在帮助您熟悉并充分了解WordAI iOS应用程序。
 ## 1. 入门指南
 
 要开始使用WordAI，请从iOS应用商店下载该应用程序。
 
 ## 2. 使用搜索功能
 
-搜索栏位于主屏幕顶部。只需输入您希望探索的任何英文词汇或短语。当您输入时，WordAI将提供相关词汇建议。选择一个词汇将带您进入其详细词汇视图。
+搜索栏位于主屏幕顶部。只需输入您希望探索的任何英文词汇或短语。点击一个词汇联想，或者直接搜索可以显示详情。
 
 ## 3. 语言切换：在英文和中文UI之间切换
 
@@ -47,50 +41,46 @@ Thank you for choosing WordAI as your companion in exploring and learning langua
 
 ## 4. 探索详细词汇视图
 
-详细词汇视图提供有关词汇的全面信息，包括定义、发音、翻译、例句、同义词/反义词和词源。使用选项卡浏览这些部分。
+详细词汇视图提供有关词汇的全面信息，包括定义、翻译、例句、词源等等。
 
-## 5. 隐私和数据保护
+## 5. 联系开发者
 
-WordAI致力于保护您的隐私和数据。我们遵守严格的安全标准，确保您的信息安全。
-
-## 6. 联系支持
-
-如需进一步帮助，请联系我们的支持团队邮箱raycarllei@gmail.com。我们将为您解决任何问题或疑问。
+如需进一步帮助，请联系支持邮箱raycarllei@gmail.com。
 
 感谢您选择WordAI作为探索和学习语言的伴侣。我们希望本支持文档能帮助您充分利用WordAI的体验。
 
 ## Privacy Policy
 1. Introduction
-Our commitment to user privacy is paramount. This privacy policy outlines how we collect, use, and protect personal information within our app.
+Our commitment to user privacy is of utmost importance. This privacy policy delineates how we collect, utilize, and safeguard personal information within our application.
 
 2. Information We Collect
-User Input: We collect vocabulary input provided by users.
-Usage Data: Non-personal usage data (e.g., app interactions, queries) may be collected.
+User Input: We gather vocabulary input provided by users.
+We collect your login user email and login timestamp. This information is not shared.
+
 3. How We Collect Data
-Directly from Users: When you use WordAI, we collect vocabulary input directly from you.
-OpenAI API: We utilize the OpenAI API to retrieve vocabulary meanings.
+OpenAI API: We employ the OpenAI API to retrieve vocabulary meanings.
 4. Purpose of Data Collection
-We collect vocabulary input to provide accurate meanings and enhance user experience.
-Data is not used for any other purpose.
+We collect vocabulary input to offer precise meanings and enhance user experience. We do not retain vocabulary input data.
+Data is exclusively used for the specified purposes.
 5. Data Sharing
-We do not share user data with third parties.
+We do not disclose user data to third parties.
 6. User Control
-Users can delete their accounts at any time, which removes associated data.
+Users have the ability to delete their accounts at any time, thereby erasing associated data.
 
 ## 隐私政策
 1. 简介
-我们对用户隐私的承诺至关重要。本隐私政策概述了我们在应用程序中如何收集、使用和保护个人信息。
+我们对用户隐私的承诺至关重要。本隐私政策详细说明了我们如何在应用程序中收集、利用和保护个人信息。
 
 2. 我们收集的信息
 用户输入：我们收集用户提供的词汇输入。
-使用数据：可能会收集非个人使用数据（例如，应用程序交互、查询）。
+我们收集您的登录用户电子邮件和登录时间戳。此信息不会被共享。
+
 3. 我们如何收集数据
-直接从用户那里收集：当您使用WordAI时，我们直接从您那里收集词汇输入。
 OpenAI API：我们利用OpenAI API检索词汇含义。
 4. 数据收集的目的
-我们收集词汇输入以提供准确的含义并增强用户体验。
-数据不用于任何其他目的。
+我们收集词汇输入以提供准确的含义并增强用户体验。我们不保留词汇输入数据。
+数据仅用于指定目的。
 5. 数据共享
-我们不与第三方分享用户数据。
+我们不向第三方披露用户数据。
 6. 用户控制
-用户可以随时删除他们的账户，这将删除相关数据。
+用户可以随时删除其账户，从而清除相关数据。
