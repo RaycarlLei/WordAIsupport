@@ -24,6 +24,30 @@ For further assistance, please contact our support team at raycarllei@gmail.com.
 
 Thank you for choosing WordAI as your companion in exploring and learning languages. We hope this support documentation helps you make the most out of your WordAI experience.
 
+
+## Privacy Policy
+## 1. Introduction
+
+The commitment to user privacy is crucial to us. This privacy policy details how we collect, use, and protect personal information within the application.
+
+## 2. Information We Collect and Purpose of Data Collection
+
+We collect user-provided vocabulary inputs to provide accurate meanings and enhance user experience. We do not retain vocabulary input data.
+We collect your login user email and login timestamp. This information will not be shared.
+
+## 3. How We Collect Data
+
+OpenAI API: We utilize the OpenAI API to retrieve vocabulary meanings.
+
+## 4. Data Sharing
+
+We do not disclose user data to third parties.
+
+## 5. User Controls
+Users can delete their account at any time to clear relevant data.
+
+
+
 ##
 
 欢迎使用WordAI支持文档。本指南旨在帮助您熟悉并充分了解WordAI iOS应用程序。
@@ -48,8 +72,6 @@ Thank you for choosing WordAI as your companion in exploring and learning langua
 如需进一步帮助，请联系支持邮箱raycarllei@gmail.com。
 
 感谢您选择WordAI作为探索和学习语言的伴侣。我们希望本支持文档能帮助您充分利用WordAI的体验。
-
-## Privacy Policy ## 1. Introduction Our commitment to user privacy is of paramount importance. This Privacy Policy details how we collect, use and protect personal information on the Application. ## 2. Information We Collect and Purpose of Data Collection We collect vocabulary input provided by users to provide accurate meaning and enhance user experience. We do not retain vocabulary input data. We collect your logged in user email and login timestamp. This information will not be shared. ## 3. How we collect data OpenAI API: We use OpenAI API to retrieve word meanings. ## 4. Data Sharing We do not disclose user data to third parties. ## 5. User Control Users can delete their account at any time to clear related data.
 
 ## 隐私政策
 ## 1. 简介
