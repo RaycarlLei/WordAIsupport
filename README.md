@@ -58,3 +58,23 @@ WordAI致力于保护您的隐私和数据。我们遵守严格的安全标准�
 如需进一步帮助，请联系我们的支持团队，邮箱为raycarllei@gmail.com。我们将为您解决任何问题或疑问。
 
 感谢您选择WordAI作为探索和学习语言的伴侣。我们希望本支持文档能帮助您充分利用WordAI的体验。
+
+## Privacy Policy
+1. Introduction
+Our commitment to user privacy is paramount. This privacy policy outlines how we collect, use, and protect personal information within our app.
+
+2. Information We Collect
+User Input: We collect vocabulary input provided by users.
+Usage Data: Non-personal usage data (e.g., app interactions, queries) may be collected.
+3. How We Collect Data
+Directly from Users: When you use WordAI, we collect vocabulary input directly from you.
+OpenAI API: We utilize the OpenAI API to retrieve vocabulary meanings.
+4. Purpose of Data Collection
+We collect vocabulary input to provide accurate meanings and enhance user experience.
+Data is not used for any other purpose.
+5. Data Sharing
+We do not share user data with third parties.
+6. User Control
+Users can delete their accounts at any time, which removes associated data.
+7. Contact Us
+If you have questions or concerns about our privacy practices, please reach out to us at [your contact email].
