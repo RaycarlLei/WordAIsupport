@@ -38,6 +38,7 @@ We collect your login user email and login timestamp. This information will not 
 ## 3. How We Collect Data
 
 OpenAI API: We utilize the OpenAI API to retrieve vocabulary meanings.
+Firebase authorization: We utilize Firebase for log-in and sign-up services. 
 
 ## 4. Data Sharing
 
@@ -84,7 +85,7 @@ Users can delete their account at any time to clear relevant data.
 我们收集您的登录用户电子邮件和登录时间戳。此信息不会被共享。
 
 ## 3. 我们如何收集数据
-
+Firebase授权：我们利用Firebase进行登录和注册服务。
 OpenAI API：我们利用OpenAI API检索词汇含义。
 
 ## 4. 数据共享
