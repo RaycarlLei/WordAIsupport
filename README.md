@@ -50,37 +50,53 @@ Thank you for choosing WordAI as your companion in exploring and learning langua
 感谢您选择WordAI作为探索和学习语言的伴侣。我们希望本支持文档能帮助您充分利用WordAI的体验。
 
 ## Privacy Policy
-##1. Introduction
+## 1. Introduction
+
 Our commitment to user privacy is of utmost importance. This privacy policy delineates how we collect, utilize, and safeguard personal information within our application.
 
-##2. Information We Collect
+## 2. Information We Collect
+
 User Input: We gather vocabulary input provided by users.
 We collect your login user email and login timestamp. This information is not shared.
 
-##3. How We Collect Data
+## 3. How We Collect Data
+
 OpenAI API: We employ the OpenAI API to retrieve vocabulary meanings.
-##4. Purpose of Data Collection
+
+## 4. Purpose of Data Collection
+
 We collect vocabulary input to offer precise meanings and enhance user experience. We do not retain vocabulary input data.
 Data is exclusively used for the specified purposes.
-##5. Data Sharing
+## 5. Data Sharing
+
 We do not disclose user data to third parties.
+
 ##6. User Control
+
 Users have the ability to delete their accounts at any time, thereby erasing associated data.
 
 ## 隐私政策
-##1. 简介
+## 1. 简介
+
 我们对用户隐私的承诺至关重要。本隐私政策详细说明了我们如何在应用程序中收集、利用和保护个人信息。
 
-##2. 我们收集的信息
+## 2. 我们收集的信息
+
 用户输入：我们收集用户提供的词汇输入。
 我们收集您的登录用户电子邮件和登录时间戳。此信息不会被共享。
 
-##3. 我们如何收集数据
+## 3. 我们如何收集数据
+
 OpenAI API：我们利用OpenAI API检索词汇含义。
-##4. 数据收集的目的
+
+## 4. 数据收集的目的
+
 我们收集词汇输入以提供准确的含义并增强用户体验。我们不保留词汇输入数据。
 数据仅用于指定目的。
-##5. 数据共享
+
+## 5. 数据共享
+
 我们不向第三方披露用户数据。
+
 ##6. 用户控制
 用户可以随时删除其账户，从而清除相关数据。
