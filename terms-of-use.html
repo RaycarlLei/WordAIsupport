@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WordAI 使用协议 / Terms of Use</title>
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --card: #fff;
+      --text: #1a1a1a;
+      --muted: #6c757d;
+      --accent: #0d6efd;
+      --border: #dee2e6;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.6;
+      color: var(--text);
+      background: var(--bg);
+      margin: 0;
+      padding: 1rem;
+    }
+    .container { max-width: 720px; margin: 0 auto; }
+    h1 { font-size: 1.5rem; margin-top: 0; }
+    h2 { font-size: 1.2rem; margin-top: 1.5rem; color: var(--muted); }
+    .tabs {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 1.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .tabs button {
+      padding: 0.5rem 1rem;
+      border: none;
+      background: none;
+      color: var(--muted);
+      cursor: pointer;
+      font-size: 1rem;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+    }
+    .tabs button:hover { color: var(--text); }
+    .tabs button.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+    .panel { display: none; }
+    .panel.active { display: block; }
+    .panel section {
+      background: var(--card);
+      padding: 1.25rem 1.5rem;
+      border-radius: 8px;
+      margin-bottom: 1rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,.06);
+    }
+    .panel section h2 { margin-top: 0; margin-bottom: 0.75rem; color: var(--text); }
+    ul { margin: 0.5rem 0; padding-left: 1.25rem; }
+    li { margin-bottom: 0.35rem; }
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    a:hover { text-decoration: underline; }
+    .notice {
+      background: #e7f1ff;
+      border: 1px solid #b6d4fe;
+      border-radius: 6px;
+      padding: 1rem 1.25rem;
+      margin: 1rem 0;
+      font-size: 0.95rem;
+    }
+    .notice strong { display: block; margin-bottom: 0.35rem; }
+    .footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); font-size: 0.875rem; color: var(--muted); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>WordAI 使用协议 / Terms of Use</h1>
+    <p style="color: var(--muted); margin-bottom: 1.5rem;">请根据您所在地区选择对应版本阅读。Please select the version that applies to your region.</p>
+
+    <div class="tabs" role="tablist">
+      <button type="button" role="tab" id="tab-cn" aria-selected="true">中国（简体中文）</button>
+      <button type="button" role="tab" id="tab-us" aria-selected="false">United States (English)</button>
+    </div>
+
+    <!-- 中国版 -->
+    <div id="panel-cn" class="panel active" role="tabpanel">
+      <section>
+        <h2>一、适用范围</h2>
+        <p>本协议适用于中华人民共和国境内用户使用 WordAI 应用（以下简称「本应用」）及相关服务。使用本应用即表示您同意本协议。</p>
+      </section>
+      <section>
+        <h2>二、本应用收集的内容</h2>
+        <p>为提供服务与保障安全，本应用可能收集或处理以下信息：</p>
+        <ul>
+          <li><strong>账号与身份信息：</strong>当您使用邮箱、Google、Apple 或访客方式登录时，由 Firebase 认证服务收集的登录标识（如邮箱、设备标识等），用于账号创建与登录验证。</li>
+          <li><strong>您在本应用内的使用数据：</strong>包括您搜索或查询的<strong>英文单词</strong>、您选择的偏好（如界面语言、深色模式）、以及为提供释义/例句等功能而由您触发的请求内容。</li>
+          <li><strong>设备与日志信息：</strong>为保障服务稳定与安全，可能收集设备类型、操作系统版本及与 API 调用相关的匿名化日志信息。</li>
+        </ul>
+      </section>
+      <section>
+        <h2>三、与 OpenAI 共享的数据</h2>
+        <p>本应用部分功能依赖 OpenAI 的 API 提供智能释义、例句、词性等信息。在此过程中，以下数据会经本应用发送至 OpenAI：</p>
+        <ul>
+          <li>您所查询的<strong>英文单词</strong>；</li>
+          <li>为生成释义、翻译、词性、例句等而构造的<strong>提示内容（prompt）</strong>，其中可能包含您选择的语境或语言偏好（如「简体中文」「大学语境」）；</li>
+          <li>与单次请求相关的<strong>技术参数</strong>（如模型名称、流式请求标识等），不包含您的账号、姓名或设备唯一标识。</li>
+        </ul>
+        <p>本应用<strong>不会</strong>向 OpenAI 提供您的登录账号、密码、真实姓名或其它可直接识别个人身份的信息。</p>
+        <div class="notice">
+          <strong>关于 OpenAI 对您数据的使用（重要说明）</strong>
+          <p style="margin: 0.5rem 0 0 0;">自 2023 年 3 月 1 日起，发送至 OpenAI API 的数据<strong>不会</strong>被用于训练或改进 OpenAI 的模型（除非您主动选择加入并同意将数据与我们共享）。</p>
+          <p style="margin: 0.5rem 0 0 0;">更多详情请参阅 OpenAI 官方说明：<a href="https://developers.openai.com/api/docs/guides/your-data" target="_blank" rel="noopener noreferrer">Data controls in the OpenAI platform (Your data)</a>。</p>
+        </div>
+      </section>
+      <section>
+        <h2>四、数据存储与缓存</h2>
+        <p>本应用可能在您的设备上缓存部分查询结果（如单词释义、例句），用于减少重复请求、提升响应速度。缓存仅存储在本地，您可通过清除应用数据移除。</p>
+      </section>
+      <section>
+        <h2>五、您的权利与选择</h2>
+        <p>您有权查询、更正或删除与您相关的个人信息。若您使用第三方登录（如 Google、Apple），部分账号信息的管理需在对应平台进行。停止使用本应用并卸载后，我们将按法律与政策规定处理已收集的数据。</p>
+      </section>
+      <section>
+        <h2>六、协议更新</h2>
+        <p>我们可能适时修订本协议。重大变更将通过应用内通知或更新后的协议文本告知您。继续使用本应用即视为接受修订后的协议。</p>
+      </section>
+    </div>
+
+    <!-- 美国版 -->
+    <div id="panel-us" class="panel" role="tabpanel">
+      <section>
+        <h2>1. Scope</h2>
+        <p>These Terms of Use apply to your use of the WordAI application (“App”) and related services. By using the App, you agree to these terms.</p>
+      </section>
+      <section>
+        <h2>2. What the App Collects</h2>
+        <p>To provide and secure our services, the App may collect or process:</p>
+        <ul>
+          <li><strong>Account and identity information:</strong> When you sign in via email, Google, Apple, or as a guest, Firebase Authentication may collect login identifiers (e.g., email, device identifiers) for account creation and sign-in.</li>
+          <li><strong>In-app usage data:</strong> This includes the <strong>English words</strong> you search or query, your preferences (e.g., app language, dark mode), and the content of requests you trigger for features such as definitions and example sentences.</li>
+          <li><strong>Device and log information:</strong> We may collect device type, OS version, and anonymized logs related to API usage for stability and security.</li>
+        </ul>
+      </section>
+      <section>
+        <h2>3. Data Shared with OpenAI</h2>
+        <p>Some features rely on OpenAI’s API to provide definitions, example sentences, and other word-related content. In that process, the following data is sent from the App to OpenAI:</p>
+        <ul>
+          <li>The <strong>English word(s)</strong> you query;</li>
+          <li><strong>Prompt content</strong> used to generate definitions, translations, parts of speech, or example sentences, which may include your chosen context or language preference (e.g., “Simplified Chinese,” “college context”);</li>
+          <li><strong>Technical parameters</strong> for each request (e.g., model name, streaming flags). We do not send your account ID, name, or device identifiers to OpenAI.</li>
+        </ul>
+        <p>The App does <strong>not</strong> provide OpenAI with your login credentials, real name, or other directly identifiable personal information.</p>
+        <div class="notice">
+          <strong>How OpenAI Uses Your Data (Important)</strong>
+          <p style="margin: 0.5rem 0 0 0;">As of March 1, 2023, data sent to the OpenAI API is not used to train or improve OpenAI models (unless you explicitly opt in to share data with us).</p>
+          <p style="margin: 0.5rem 0 0 0;">For more details, see OpenAI’s documentation: <a href="https://developers.openai.com/api/docs/guides/your-data" target="_blank" rel="noopener noreferrer">Data controls in the OpenAI platform — Your data</a>.</p>
+        </div>
+      </section>
+      <section>
+        <h2>4. Storage and Caching</h2>
+        <p>The App may cache query results (e.g., definitions, example sentences) on your device to reduce repeated requests and improve performance. Cache is stored locally and can be removed by clearing app data.</p>
+      </section>
+      <section>
+        <h2>5. Your Rights and Choices</h2>
+        <p>You may have rights to access, correct, or delete personal information we hold about you. If you sign in with a third party (e.g., Google, Apple), some account data is managed by that provider. If you stop using and uninstall the App, we will handle previously collected data in accordance with applicable law and our policies.</p>
+      </section>
+      <section>
+        <h2>6. Changes to These Terms</h2>
+        <p>We may update these terms from time to time. Material changes will be communicated via in-app notice or an updated terms page. Continued use of the App after changes constitutes acceptance of the updated terms.</p>
+      </section>
+    </div>
+
+    <div class="footer">
+      <p>Last updated: February 2025. This page is a static reference for the WordAI app terms of use and data practices.</p>
+    </div>
+  </div>
+
+  <script>
+    (function() {
+      var tabCn = document.getElementById('tab-cn');
+      var tabUs = document.getElementById('tab-us');
+      var panelCn = document.getElementById('panel-cn');
+      var panelUs = document.getElementById('panel-us');
+
+      function showCn() {
+        tabCn.classList.add('active'); tabCn.setAttribute('aria-selected', 'true');
+        tabUs.classList.remove('active'); tabUs.setAttribute('aria-selected', 'false');
+        panelCn.classList.add('active'); panelUs.classList.remove('active');
+      }
+      function showUs() {
+        tabUs.classList.add('active'); tabUs.setAttribute('aria-selected', 'true');
+        tabCn.classList.remove('active'); tabCn.setAttribute('aria-selected', 'false');
+        panelUs.classList.add('active'); panelCn.classList.remove('active');
+      }
+
+      tabCn.addEventListener('click', showCn);
+      tabUs.addEventListener('click', showUs);
+    })();
+  </script>
+</body>
+</html>
